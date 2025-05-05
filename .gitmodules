@@ -1,0 +1,3 @@
+[submodule "Neuronova_Sim"]
+	path = Neuronova_Sim
+	url = git@github.com:marcorax/Neuronova_Sim.git
